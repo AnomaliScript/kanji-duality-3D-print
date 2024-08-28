@@ -1,6 +1,6 @@
 # Two-Sided Kanji print
 You know those displays where if oou look at it from one perspective, it looks like one thing, but from another perspective, it looks like another thing?
-This 3D print is basically that; when you look at it from the front, it's the kanji (one of the Japanese scripts) for "truth", and when looked at from the other side, it shows the kanji for "ideals"
+This 3D print is basically that; when you look at it from the front, it's the kanji (one of the Japanese scripts) for "truth" (pronounced "jitsu"), and when looked at from the other side, it shows the kanji for "ideals" (pronounced "sou")
 
 ## Description
 This print, like my other 3D print repos, was made in one day, but I still paid careful attention to detail, and I'll make adjustments to the CAD if needed, after printing it out and giving it a try
