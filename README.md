@@ -14,6 +14,8 @@ This file should be small enough to not require any external drives or hardware 
 ## Usage
 It's a decorative piece thingy put it whereever you want, in whatever you want (within reason obviously).
 I originally planned for it to be a prop for a photograph that I'm planning to take for a possible photography competition that may be coming up soon at my school.
+![dimetric image of the print](https://github.com/user-attachments/assets/e9b50a3a-1799-4efa-8c74-9861bf64d4d3)
+![isometric image of the print](https://github.com/user-attachments/assets/94f0c1c5-529c-45cb-98dc-20fa68a96b7b)
 
 ## Features
 It's designed to be free-standing (hopefully it is, I tried to allign their lower points)
